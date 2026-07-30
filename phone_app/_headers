@@ -1,0 +1,10 @@
+/*
+  Cross-Origin-Opener-Policy: same-origin
+  Cross-Origin-Embedder-Policy: require-corp
+  Permissions-Policy: camera=(self)
+
+/ort/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/ball.onnx
+  Cache-Control: public, max-age=31536000, immutable
